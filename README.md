@@ -4,7 +4,10 @@ I'm a junior python developer, mostly self-taught. I'm looking forward to learni
 ## 🌱 Areas of interest
 - backend
 - databases
-- devops 
+- devops
+## 💬 How to reach me:
+e-mail: neppchela@gmail.com
+tg: @v_south
 <!--
 **vsouth/vsouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
