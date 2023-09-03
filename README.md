@@ -4,8 +4,7 @@ I'm a junior python developer.
 ## 🌱 Areas of interest
 - backend
 - databases
-- devops
-- 
+- devops 
 <!--
 **vsouth/vsouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
