@@ -1,6 +1,6 @@
 # Hello, I'm Vasilisa👋
 ## 📫 About me
-I'm a junior python developer.
+I'm a junior python developer, mostly self-taught. I'm looking forward to learning more.
 ## 🌱 Areas of interest
 - backend
 - databases
